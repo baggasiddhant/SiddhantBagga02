@@ -11,8 +11,7 @@ Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with 
 - [Technical Skills](#technical-skills)  
 - [Projects](#projects)  
   - [JalDarpan – Water Demand Forecasting using LSTM](#jaldarpan--water-demand-forecasting-using-lstm)  
-  - [WhatsApp Expense Tracker Bot](#whatsapp-expense-tracker-bot)
-  - [Deepfake Filter for Live Streams](#deepfake-filter-for-live-streams)    
+  - [WhatsApp Expense Tracker Bot](#whatsapp-expense-tracker-bot)  
 - [Internship Experience](#internship-experience)  
 - [Certifications](#certifications)  
 
@@ -41,11 +40,6 @@ Built a conversational bot for WhatsApp to track and manage personal expenses th
 **Domains:** Natural Language Processing, Chatbots, Personal Finance Automation
 
 ---
-
-### [Deepfake Filter for Live Streams](https://github.com/SiddhantBagga02/Deepfake-Filter-for-Live-Streams)  
-**Tech Stack:** OpenCV, FFmpeg, RTX 3050, Flask, React.js  
-Developed a low-latency deepfake detection system with real-time frontend. Integrated optimized GPU models for live video filtering with detection toggles and interactive results display.  
-**Domains:** Computer Vision, Deep Learning, Real-time Inference, Media Streaming
 
 
 ## Internship Experience
