@@ -1,7 +1,5 @@
 # Hi, I'm Siddhant Bagga
 
-Computer Science undergraduate at Vellore Institute of Technology, Bhopal, with a strong passion for building intelligent systems that combine AI, data, and product thinking to solve real-world problems.
-
 - Location: Raipur, India  
 - LinkedIn: [Siddhant Bagga](https://www.linkedin.com/in/siddhant-bagga-/)  
 - GitHub: [SiddhantBagga02](https://github.com/SiddhantBagga02)
